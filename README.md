@@ -11,7 +11,7 @@ PHP WDSL/Soap Client with NTLM Authentication for Microsoft Dynamics NAT Server.
 Via Composer
 
 ``` bash
-$ composer require matejsvajger/ntlm-soap-client
+$ composer require msurkov16/ntlm-soap-client
 ```
 
 ## Usage
