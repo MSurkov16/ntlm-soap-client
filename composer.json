@@ -6,13 +6,13 @@
         "matejsvajger",
         "ntlm-soap-client"
     ],
-    "homepage": "https://github.com/MSurkov16/ntlm-soap-client/",
+    "homepage": "https://github.com/matejsvajger/ntlm-soap-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Maksim Surkov",
-            "email": "mssurkov16@gmail.com",
-            "homepage": "https://www.webranding.ru",
+            "name": "Matej Svajger",
+            "email": "hello@matejsvajger.com",
+            "homepage": "http://www.matejsvajger.com",
             "role": "Owner"
         }
     ],
